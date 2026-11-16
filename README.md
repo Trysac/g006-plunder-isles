@@ -16,12 +16,12 @@ and Spanish, with keyboard or gamepad. (The repository keeps its first name,
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Endless_New_Game](https://trysac.github.io/Endless_New_Game/)
+- **In your browser:** [trysac.github.io/g006-plunder-isles](https://trysac.github.io/g006-plunder-isles/)
 - **On itch.io:** [trysac.itch.io/plunder-isles](https://trysac.itch.io/plunder-isles)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Endless_New_Game.git
+  git clone https://github.com/Trysac/g006-plunder-isles.git
   ```
 
 ## Run it
